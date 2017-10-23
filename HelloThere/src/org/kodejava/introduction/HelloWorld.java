@@ -16,7 +16,7 @@ public class HelloWorld {
 
         String name = "world";
         /* Enter name below to see your name in the output. */
-        hello.setName("There");
+        hello.setName("Max");
         hello.sayHello();
     }
 
