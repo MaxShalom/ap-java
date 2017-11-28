@@ -1,7 +1,5 @@
 # Primitive Data Types
 
-------
-
 
 
 * **Boolean** - Light switch (True/False)

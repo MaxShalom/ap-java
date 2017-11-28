@@ -1,7 +1,5 @@
 # Basic Java 1-7
 
-------
-
 
 
 ### Printing in Java
