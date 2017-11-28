@@ -1,5 +1,8 @@
-
 # Primitive Data Types
+
+------
+
+
 
 * **Boolean** - Light switch (True/False)
 * **Char** - 1 character - single quotes
