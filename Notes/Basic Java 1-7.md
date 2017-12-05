@@ -5,19 +5,13 @@
 ### Printing in Java
 
 * System.out.print(x); prints x to the console
-
 * System.out.println(x); prints x and starts a new line in the console after
   * Useful if you want to view results easier
-
 * Escape characters:
-
-* - “\n” makes the rest of the output go on a new line
-
-  - - System.out.print(x + “\n”) is the same as System.out.println(x)
-
-  - “\t” makes a tab
-
-  - “\\” makes a \, “\’” makes a ‘, “\”” makes a “
+  * “\n” makes the rest of the output go on a new line
+    * System.out.print(x + “\n”) is the same as System.out.println(x)
+  * “\t” makes a tab
+  * “\\” makes a \, “\’” makes a ‘, “\”” makes a “
 
 ### Variables
 
@@ -84,7 +78,10 @@
 * A boolean is a light switch.
 * it can either be true or false.
 * These translate to...
-  * On or off or
+  * On or off 
+
+    or...
+
   * 1 or 0
 
 ### Logical Operators
