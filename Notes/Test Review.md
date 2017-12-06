@@ -14,7 +14,7 @@ pulic double pendulum(double L, double g){
 
 
 
-######  Github
+#####  Github
 
 1. What is a README file?
    1. Describes what your code does to other viewers.
@@ -23,4 +23,4 @@ pulic double pendulum(double L, double g){
 3. What is a branch and when is it appropriate to use a one?
    1. A copy of a code so you don't mess with the main code to be used when you want to merge you changes with the main code.
 4. What is a pull request and when is it appropriate to use a pull request?
-   1. ​
+   1. A pull request is used when you want to merge code back into the main branch. You can use it after you finished working on a copy of the code, a branch, and after you've pushed your changes, you can submit a pull request to put both of them together.
