@@ -1,5 +1,3 @@
-package org.kodejava.introduction;
-
 public class HelloWorld {
     private String name;
 
