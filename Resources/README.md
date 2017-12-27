@@ -14,7 +14,15 @@
 
 [Think Java: How to Think Like a Computer Scientist](https://github.com/MaxShalom/ap-java/blob/master/Resources/Think%20AP%20Java.pdf)
 
-[AP Computer Science A (Java) Made Easy Youtube Playlist](https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH)
+
+
+### Youtube Playlists
+
+[AP Computer Science A (Java) Made Easy](https://www.youtube.com/playlist?list=PLmpmyPywZ443PFI8YF3ZMmoEcRfxXckdH)
+
+[Edhesive: Term One](https://www.youtube.com/playlist?list=PLGc4KcEkB4aCk1Mqcwx3fm2AqP4yJNYHD)
+
+[Edhesive: Term Two](https://www.youtube.com/playlist?list=PLGc4KcEkB4aD8MGwUWAGMpL3-MmErtqRy)
 
 
 
