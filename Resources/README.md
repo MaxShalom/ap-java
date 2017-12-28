@@ -14,6 +14,12 @@
 
 [Think Java: How to Think Like a Computer Scientist](https://github.com/MaxShalom/ap-java/blob/master/Resources/Think%20AP%20Java.pdf)
 
+[Practice Exams](https://apstudent.collegeboard.org/apcourse/ap-computer-science-a/exam-practice)
+
+[Princeton Java Cheat Sheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+
+
+
 
 
 ### Youtube Playlists
@@ -35,6 +41,8 @@
 [Albert.io AP Java Course - **$39**](https://www.albert.io/ap-computer-science-a/)
 
 [CodingBat Java](http://codingbat.com/java)
+
+[Review Course: AP Computer Science in Java: Everything you need to get a 5 on the exam](https://codehs.com/course/info/apreview)
 
 
 
