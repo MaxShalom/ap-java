@@ -8,17 +8,17 @@ class Main {
 
     String x;
     int y = 0;
-    String z = "    ";
-    
-    int w = x.length();
+    String z = "\t";
     
     System.out.println("Enter a word:");
     x = scan.nextLine();
     
-    if (y >= w) {
+    int w = x.length();
+    
+    while (y < w) {
         System.out.println(z + x.charAt(y));
         y++;
-        z = z + "    ";
+        z = z + "\t";
     }    
   }
 }
