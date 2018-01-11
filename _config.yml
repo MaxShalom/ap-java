@@ -1,5 +1,9 @@
 remote_theme: qwtel/hydejack
 
+
+accent_image: sidebar-img.jpg
+accent_color: '#198719'
+
 author:
   social:
     github: https://github.com/MaxShalom/ap-java
