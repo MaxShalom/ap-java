@@ -86,10 +86,10 @@
 
 ### Logical Operators
 
-* || - or
-* == - is equal to
-* != - is not equal (! = is not, can be applied to more things)
-* && - and
+* "||" - or
+* "==" - is equal to
+* "!=" - is not equal (! = is not, can be applied to more things)
+* "&&" - and
 * One expression at a time: If the first one doesn't satisfy the condition, it doesn't evaluate the second.
 
 ### Random CS Fact
