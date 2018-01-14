@@ -57,5 +57,7 @@ Preparing for the AP Computer Science A Exam - edX Courses - [Part 1](https://ww
 
 [Java Flash Cards](https://github.com/MaxShalom/ap-java/blob/master/Resources/Flash%20Cards.pdf)
 
+[Syvum Java Programming Practice](https://www.syvum.com/squizzes/java/)
+
 
 ###### All sites are free unless otherwise noted.
