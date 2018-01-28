@@ -1,5 +1,7 @@
-# Basic Java 8-16
-
+---
+layout: page 
+title:  Basic Java 8-16
+--- 
 
 
 ### For Loops

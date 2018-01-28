@@ -1,5 +1,7 @@
-# Strings Redefined
-
+---
+layout: page 
+title:  Strings Redefined
+--- 
 
 
 ### Primitive v. Class Data Types
