@@ -1,5 +1,7 @@
-# Primitive Data Types
-
+---
+layout: page 
+title:  Primitive Data Types 
+--- 
 
 
 * **Boolean** - Light switch (True/False)
