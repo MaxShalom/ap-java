@@ -1,6 +1,7 @@
 ---
 layout: page 
 title:  Primitive Data Types 
+order: 2
 --- 
 
 
