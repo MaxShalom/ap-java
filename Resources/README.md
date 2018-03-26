@@ -3,13 +3,11 @@ layout: page
 title:  Resources 
 --- 
 
-# Resources
-
-
-
 ### Textbooks/Study Guides
 
 [Barron's AP Computer Science 4th Edition (2009)](https://github.com/MaxShalom/ap-java/blob/master/Resources/Barron's%20AP%20CS%20A%204th%20Edition.pdf)
+
+[Barron's AP Computer Science 7th Edition (2015)](https://github.com/MaxShalom/ap-java/blob/master/Resources/Barrons%20AP%20CS%20A%207th%20Edition.pdf)
 
 [Introduction to Programming Using Java](https://github.com/MaxShalom/ap-java/blob/master/Resources/Introduction%20to%20Programming%20Using%20Java.pdf)
 
