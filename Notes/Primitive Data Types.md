@@ -11,6 +11,7 @@ order: 2
 * **Double** - Number with a decimal point
 
 ## public static void
+
 1. **public** - can be used anywhere; private - only usable in that class
 2. **static** - not associated
 3. **void** - not returning anything
@@ -18,16 +19,16 @@ order: 2
 Many other options for these
 
 ```java
-    public static void mose() {
+    public static void moses() {
         System.out.printLn("mo")
     }
 
     run() {
-        mose();
+        moses();
     }
 ```
 
-These above commands will run the command **mose();** that we declared and say "mo" in the console whenever ran.
+These above commands will run the command **moses();** that we declared and say "mo" in the console whenever ran.
 
 ```java
 public static int adding example (int x, int y) {
