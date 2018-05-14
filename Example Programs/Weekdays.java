@@ -23,35 +23,35 @@ public class APCSReview {
         
         System.out.println("Input a number from 1-7:");
         int num = monthNum.nextInt();
-        getName(num);
+        System.out.println(getName(num));
         
     }
 
-    public static void getName(int day) {
+    public static String getName(int day) {
         
         if (day == 1)
-            System.out.println("Sunday");
+            return("Sunday");
         
         else if (day == 2)
-            System.out.println("Monday");
+            return("Monday");
         
         else if (day == 3)
-            System.out.println("Tuesday");
+            return("Tuesday");
        
         else if (day == 4)
-            System.out.println("Wednesday");
+            return("Wednesday");
         
         else if (day == 5)
-            System.out.println("Thursday");
+            return("Thursday");
         
         else if (day == 6)
-            System.out.println("Friday");
+            return("Friday");
         
         else if (day == 7)
-            System.out.println("Saturday");
+            return("Saturday");
         
         else 
-            System.out.println("Not Valid");
+            return("Not Valid");
         
     }
     
