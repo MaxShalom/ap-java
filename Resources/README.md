@@ -23,6 +23,8 @@ title:  Resources
 
 [College Board’s AP Computer Science Java Subset - What you need to know for the exam](https://github.com/MaxShalom/ap-java/blob/master/Resources/AP%20CS%20A%20Java%20Subset.pdf)
 
+[Decoding AP Computer Science A Course](https://www.udemy.com/decoding-ap-computer-science-a/)
+
 
 
 ### Youtube Playlists
