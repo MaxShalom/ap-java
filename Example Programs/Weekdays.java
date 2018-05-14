@@ -19,10 +19,10 @@ public class APCSReview {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner monthNum = new Scanner (System.in);
+        Scanner dayNum = new Scanner (System.in);
         
         System.out.println("Input a number from 1-7:");
-        int num = monthNum.nextInt();
+        int num = dayNum.nextInt();
         System.out.println(getName(num));
         
     }
